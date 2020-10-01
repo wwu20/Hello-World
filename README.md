@@ -1,2 +1,2 @@
 # Hello-World
-This is a repository for BAIS 3050
+I am currently taking business analytics and information system at University of Iowa's Tippie College of Business.
